@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/XploitWizer/XploitSPY/raw/master/server/assets/webpublic/logo.png" height="60"><br>
-A cloud based Android Monitoring Tool, powered by NodeJS
+A cloud based Android Monitoring Tool
 </p>
 
 ## Features
