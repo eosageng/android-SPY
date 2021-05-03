@@ -36,7 +36,7 @@ A cloud based Android Monitoring Tool
         - "sudo apt-get update"
         - "sudo apt-get install openjdk-11-jre"
    
-2. Install NodeJS [Sesuai OS yang kamu Pakai](https://nodejs.org/en/download/package-manager/)
+2. Install NodeJS [Instruction in here](https://nodejs.org/en/download/package-manager/)
 
 3. install PM2 
     - `sudo npm install pm2 -g`
