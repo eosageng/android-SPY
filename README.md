@@ -67,8 +67,8 @@ It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https:/
 
 
 ## Disclaimer
-<b>X-SPY Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-X-SPY is built for Educational Purpose. Use at your own Risk.</b>
+<b>X-SPY tidak memberikan jaminan dengan software ini dan tidak akan bertanggung jawab atas kerusakan langsung atau tidak langsung yang disebabkan karena penggunaan alat ini.<br>
+X-SPY dibangun untuk Tujuan Pendidikan. Gunakan dengan Risiko Anda sendiri</b>
 
 <br>
 <p align="center">Made with ❤️ By <a href="https://xploitwizer.com">EosAP</a></p>
