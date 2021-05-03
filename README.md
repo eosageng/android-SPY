@@ -2,6 +2,7 @@
 <img src="" height="60"><br>
 A cloud based Android Monitoring Tool
 </p>
+<p align="center">Made with ❤️ By <a href="https://xploitwizer.com">EosAP</a></p>
 
 ## Features
 - GPS Logging / Track Location
