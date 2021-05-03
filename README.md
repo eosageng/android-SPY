@@ -4,16 +4,16 @@ A cloud based Android Monitoring Tool
 </p>
 
 ## Features
-- GPS Logging
+- GPS Logging / Track Location
 - Microphone Recording
 - View Contacts
-- SMS Logs
+- View SMS Logs
 - Send SMS
-- Call Logs
+- View Call Logs
 - View Installed Apps
 - View Stub Permissions
 - Live Clipboard Logging
-- Live Notification Logging (WhatsApp, Facebook, Instagram, Gmail and more ....)
+- View Live Notification Logging (WhatsApp, Facebook, Instagram, Gmail and more ....)
 - View WiFi Networks (logs previously seen)
 - File Explorer & Downloader
 - Command Queuing
